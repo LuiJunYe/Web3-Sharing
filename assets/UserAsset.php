@@ -12,7 +12,7 @@ class UserAsset extends AssetBundle
 		'css/alertify.min.css',
 		'css/default.min.css',
 		'css/magnific-popup.css',
-		'css/style.css?v=202108121510',
+		'css/style.css?v=202203251300',
 		'css/xmcountdown.css'
 	];
 	public $js = [

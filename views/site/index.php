@@ -10,6 +10,9 @@ $this->title = 'Sharing';
 	<section id="tickets">
 		<h2><span><?= Yii::t('app', 'Purchase') ?></span></h2>
 		<hr>
+		<h4 style="color: red; text-align: center;font-weight: bold;padding-bottom: 30px">
+			Testnet
+		</h4>
 
 		<div ng-controller="WalletCtrl" ng-cloak>
 			<div ng-controller="MainCtrl" ng-cloak>
